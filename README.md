@@ -9,7 +9,7 @@
 * Know how much I should be saving
 * Tell me whether or not I'm on track for the month
 * Output how much to put away
-..* Maybe automatically put this amount away
+⋅⋅* Maybe automatically put this amount away
 * Output how much is left in the budget for certain categories
 
 ## Implementation:
