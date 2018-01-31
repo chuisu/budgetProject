@@ -6,6 +6,7 @@
 * Be able to send notifications (email, phone, pushbullet)
 * Calculate a burn rate
 * Know how much I should spend in certain categories (pie chart)
+* Tell what category a transaction falls under
 * Know how much I should be saving
 * Tell me whether or not I'm on track for the month
 * Output how much to put away
@@ -42,4 +43,20 @@ Some things I need to check out:
 * SQL, so I can actually learn how to design databases
 
 Bye for now!
+
 Brandon Choi
+
+
+1/31/2018:
+
+This project is holding until I finish exams. Till then, I'm using Mint, which makes use of yodlee to get transaction data. Interesting features of Mint are:
+
+Goals: Mint is able to track goals like student loans, and is able to link my Nelnet account to tell how far along I am with my loans. Can yodlee do this?
+
+Things I'd like Mint to do:
+
+Either: Scale my budget (including savings) to the amount of income I have
+Or: be able to tell that I'm earning extra, then add that amount to the amount I should save
+In eiher case, Mint doesn't do anything with the extra income I have that's not accounted for in my budget.
+Daily burn rate
+Max burn rate
