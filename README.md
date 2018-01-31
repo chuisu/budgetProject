@@ -10,7 +10,7 @@
 * Know how much I should be saving
 * Tell me whether or not I'm on track for the month
 * Output how much to put away
-⋅⋅* Maybe automatically put this amount away
+  * Maybe automatically put this amount away
 * Output how much is left in the budget for certain categories
 
 ## Implementation:
@@ -58,5 +58,6 @@ Things I'd like Mint to do:
 Either: Scale my budget (including savings) to the amount of income I have
 Or: be able to tell that I'm earning extra, then add that amount to the amount I should save
 In eiher case, Mint doesn't do anything with the extra income I have that's not accounted for in my budget.
-Daily burn rate
+
+Daily burn rate/
 Max burn rate
